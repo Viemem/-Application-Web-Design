@@ -15,7 +15,7 @@ y se usa para los encabezados de las paginas y se remarcan con la siguiente simb
 y para el tamaño de los encabezados existen 6 tipos de tamaños:
 
 esta el # con un solo gato, que significa que el tipo de letra sera para titulo.
-y esta el ###### que es para los los subtitulos mas pequeños.
+y esta el ###### que es para los subtitulos mas pequeños.
 este simbolo solo se podra usar hasta seis veces en un texto de titulo.
 
 luego estan las citas en bloque que se utilizan para tener comillas en bloque como en los correos electronicos, aqui un ejemplo:
@@ -62,5 +62,33 @@ git commit -m "comentario de confirmacion"
 
 Cargue sus cambios en el repositorio remoto.
 
+para cargar los cambios en el repositorio es:
+
+git add .
+git commit -m "cambios"
+git push
+
 Cree, explore y elimine sucursales.
+
+para crear y explorar sucursales se hace de la siguiente forma:
+
+para crear:
+
+<p>sucursal benito juarez</p>
+git add .
+git commit -m "creando primera sucursal"
+
+para explorar:
+
+git log --oneline
+
+para eliminar sucursales:
+
+git reset -- hard y aqui iria el numero del que se quiera eliminar.
+
+
 Revertir un repositorio a una confirmación específica.
+
+para revertir un repositorio se haria de la siguiente manera:
+
+git reset -- hard y aqui iria el numero de lo utlimo agregado.
