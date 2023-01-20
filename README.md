@@ -1,5 +1,20 @@
 ﻿# -Application-Web-Design
 
+ACTIVIDAD 1
+
+nombre: GUILLERMO EMILIANO LANDA CERPA
+matrícula: 02969076
+carrera: IDS
+semestre:SEXTO SEMESTRE
+
+los datos de tu asignatura:
+
+nombre de la asignatura: DISEÑO DE APLICACIONES WEB
+profesor que la imparte: Erik Ezequiel Carrillo Moo
+texto describiendo para qué sirve Markdown: markdown es un lenguaje que tiene la finalidad de permitir crear contenido de una manera sencilla de escribir, y que en todo momento mantenga un diseño legible
+
+TAREA 1
+
 -Seccion 1
 
 Agregue una sección con las opciones de etiquetado que ofrece Markdown.
