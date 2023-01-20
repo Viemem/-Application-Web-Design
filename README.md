@@ -1,5 +1,7 @@
 ﻿# -Application-Web-Design
 
+-Seccion 1
+
 Agregue una sección con las opciones de etiquetado que ofrece Markdown.
 
 -markdown ofrece sintaxis de fiefrentes tipos:
@@ -26,13 +28,39 @@ y estos mismos bloques se pueden anidar usando un doble simbolo de mayor que, aq
 
 tambien existen las listas ordenadas con numeracion y con viñetas, aqui algunos ejemplos:
 
-* hola este es un ejemplo.
+*hola este es un ejemplo.
++hola este es un ejemplo.
+-hola este es un ejemplo.
+1.hola este es un ejemplo.
 
+La otra seccion, es la seccion de code blocks, donde se puede escribir codigo del leguaje HTML.
+
+Seccion 2
 
 Agregue otra sección donde enumerará los comandos utilizados en git para hacer lo siguiente:
+
 Comprobar el estado de un repositorio local.
+
+para comprobar el estado de un repositorio local se usara:
+
+git status -s
+
 Agregue archivos individuales o globalmente.
+
+para agregar archivos individuales o globales se usara:
+
+git add .
+git commit -m "texto cambio tarea 1"
+git push
+
+
 Agregar comentarios a la confirmación.
+
+para agregar comentarios a la confirmacion se usara:
+
+git commit -m "comentario de confirmacion"
+
 Cargue sus cambios en el repositorio remoto.
+
 Cree, explore y elimine sucursales.
 Revertir un repositorio a una confirmación específica.
