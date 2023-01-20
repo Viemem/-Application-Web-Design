@@ -74,7 +74,8 @@ para crear y explorar sucursales se hace de la siguiente forma:
 
 para crear:
 
-<p>sucursal benito juarez</p>
+< p >sucursal benito juarez< / p >
+
 git add .
 git commit -m "creando primera sucursal"
 
