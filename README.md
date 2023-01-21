@@ -85,22 +85,20 @@ git push
 
 Cree, explore y elimine sucursales.
 
-para crear y explorar sucursales se hace de la siguiente forma:
+para crear, explorar y borrar sucursales se hace de la siguiente forma:
 
 para crear:
 
-< p >sucursal benito juarez< / p >
+git checkout -b (nombre de una branch)
 
-git add .
-git commit -m "creando primera sucursal"
 
 para explorar:
 
-git log --oneline
+git checkout (nombre de una branch existente)
 
 para eliminar sucursales:
 
-git reset -- hard y aqui iria el numero del que se quiera eliminar.
+git branch --delete (nombre de una branch)
 
 
 Revertir un repositorio a una confirmación específica.
