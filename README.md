@@ -75,6 +75,7 @@ La otra seccion, es la seccion de code blocks, donde se puede escribir codigo de
 
 <html>
       <head>
+      <p>test</p>
       </head>
     </html>
 
