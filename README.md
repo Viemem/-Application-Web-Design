@@ -86,7 +86,7 @@ Mi buscador favorito es [Google](https://Google.com).
 
 **Agregue otra sección donde enumerará los comandos utilizados en git para hacer lo siguiente:**
 
-*Comprobar el estado de un repositorio local.*
+***Comprobar el estado de un repositorio local.***
 
 para comprobar el estado de un repositorio local se usara:
 
