@@ -71,17 +71,6 @@ Tambien se puede usar texto tipo bold e italic, aqui algunos ejemplos:
 La otra seccion, es la seccion de code blocks, donde se puede escribir codigo del leguaje HTML, y se hace escribiendo el lenguaje tal cual como es.
 
 
-
-
-<html>
-      <head>
-      <p>test</p>
-      </head>
-    </html>
-
-
-
-
 y para los links se usara los barckets como descripcion del link y entre parentesis ira el link, aqui el ejemplo:
 
 
